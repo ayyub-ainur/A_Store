@@ -15,7 +15,7 @@ const SignUpSuccessPage: NextPage = () => {
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
             >
-              <g clip-path="url(#clip0)">
+              <g clipPath="url(#clip0)">
                 <path
                   d="M18.4405 59.8199C21.1258 58.9441 22.5952 56.0494 21.7224 53.3546C20.8496 50.6599 17.9651 49.1854 15.2797 50.0612C12.5944 50.937 11.1251 53.8317 11.9978 56.5265C12.8707 59.2212 15.7551 60.6959 18.4405 59.8199Z"
                   fill="#EAEEF9"
@@ -98,8 +98,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="12.3578"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#FF66A9" />
-                  <stop offset="1" stop-color="#F53689" />
+                  <stop stopColor="#FF66A9" />
+                  <stop offset="1" stopColor="#F53689" />
                 </linearGradient>
                 <linearGradient
                   id="paint1_linear"
@@ -109,8 +109,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="280.629"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#83A6FF" />
-                  <stop offset="1" stop-color="#5A78FF" />
+                  <stop stopColor="#83A6FF" />
+                  <stop offset="1" stopColor="#5A78FF" />
                 </linearGradient>
                 <linearGradient
                   id="paint2_linear"
@@ -120,8 +120,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="170.246"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#83A6FF" />
-                  <stop offset="1" stop-color="#5A78FF" />
+                  <stop stopColor="#83A6FF" />
+                  <stop offset="1" stopColor="#5A78FF" />
                 </linearGradient>
                 <linearGradient
                   id="paint3_linear"
@@ -131,8 +131,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="48.41"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#FF66A9" />
-                  <stop offset="1" stop-color="#F53689" />
+                  <stop stopColor="#FF66A9" />
+                  <stop offset="1" stopColor="#F53689" />
                 </linearGradient>
                 <linearGradient
                   id="paint4_linear"
@@ -142,8 +142,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="172.796"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#83A6FF" />
-                  <stop offset="1" stop-color="#5A78FF" />
+                  <stop stopColor="#83A6FF" />
+                  <stop offset="1" stopColor="#5A78FF" />
                 </linearGradient>
                 <linearGradient
                   id="paint5_linear"
@@ -153,8 +153,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="181.715"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#4F6AFF" />
-                  <stop offset="1" stop-color="#657EFF" stop-opacity="0" />
+                  <stop stopColor="#4F6AFF" />
+                  <stop offset="1" stopColor="#657EFF" stopOpacity="0" />
                 </linearGradient>
                 <linearGradient
                   id="paint6_linear"
@@ -164,8 +164,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="164.142"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop offset="0.0113208" stop-color="#C2D1FF" />
-                  <stop offset="1" stop-color="white" />
+                  <stop offset="0.0113208" stopColor="#C2D1FF" />
+                  <stop offset="1" stopColor="white" />
                 </linearGradient>
                 <linearGradient
                   id="paint7_linear"
@@ -175,8 +175,8 @@ const SignUpSuccessPage: NextPage = () => {
                   y2="91.3891"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stop-color="#FF66A9" />
-                  <stop offset="1" stop-color="#F53689" />
+                  <stop stopColor="#FF66A9" />
+                  <stop offset="1" stopColor="#F53689" />
                 </linearGradient>
                 <clipPath id="clip0">
                   <rect width="315.789" height="300" fill="white" />
