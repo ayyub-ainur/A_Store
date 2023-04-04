@@ -1,10 +1,13 @@
 import type { NextPage } from 'next'
 import TopUpForm from '../../components/organisms/TopUpForm'
 import TopUpItem from '../../components/organisms/TopUpItem'
+import NavbarSection from '../../components/organisms/Navbar'
+import FooterSection from '../../components/organisms/Footer'
 
 const DetailPage: NextPage = () => {
   return (
     <>
+      <NavbarSection />
       {/* <!-- Detail Content --> */}
       <section className="detail pt-lg-60 pb-50">
         <div className="container-xxl container-fluid">
@@ -28,6 +31,8 @@ const DetailPage: NextPage = () => {
           </div>
         </div>
       </section>
+
+      <FooterSection />
     </>
   )
 }
